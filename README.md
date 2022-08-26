@@ -1,1 +1,1 @@
-# hedgefund-avax.github.io
+# hedge-fund
