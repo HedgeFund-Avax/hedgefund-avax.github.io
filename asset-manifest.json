@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/hedge-fund/static/js/main.05d518c5.chunk.js",
-    "main.js.map": "/hedge-fund/static/js/main.05d518c5.chunk.js.map",
-    "runtime-main.js": "/hedge-fund/static/js/runtime-main.699ded72.js",
-    "runtime-main.js.map": "/hedge-fund/static/js/runtime-main.699ded72.js.map",
-    "static/js/2.8a6a506b.chunk.js": "/hedge-fund/static/js/2.8a6a506b.chunk.js",
-    "static/js/2.8a6a506b.chunk.js.map": "/hedge-fund/static/js/2.8a6a506b.chunk.js.map",
-    "index.html": "/hedge-fund/index.html",
-    "static/js/2.8a6a506b.chunk.js.LICENSE.txt": "/hedge-fund/static/js/2.8a6a506b.chunk.js.LICENSE.txt",
-    "static/media/logo.331b4abb.svg": "/hedge-fund/static/media/logo.331b4abb.svg"
+    "main.js": "/static/js/main.05d518c5.chunk.js",
+    "main.js.map": "/static/js/main.05d518c5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.76df8149.js",
+    "runtime-main.js.map": "/static/js/runtime-main.76df8149.js.map",
+    "static/js/2.ed905fe9.chunk.js": "/static/js/2.ed905fe9.chunk.js",
+    "static/js/2.ed905fe9.chunk.js.map": "/static/js/2.ed905fe9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.ed905fe9.chunk.js.LICENSE.txt": "/static/js/2.ed905fe9.chunk.js.LICENSE.txt",
+    "static/media/logo.331b4abb.svg": "/static/media/logo.331b4abb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.699ded72.js",
-    "static/js/2.8a6a506b.chunk.js",
+    "static/js/runtime-main.76df8149.js",
+    "static/js/2.ed905fe9.chunk.js",
     "static/js/main.05d518c5.chunk.js"
   ]
 }
